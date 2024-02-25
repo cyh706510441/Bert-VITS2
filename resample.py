@@ -28,7 +28,8 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
     # processes = 8
-    processes = cpu_count() - 2 if cpu_count() > 4 else 1
+    # 遇到跑失败的情况，改成1
+    processes = 1
     pool = Pool(processes=processes)
 
     for speaker in os.listdir(args.in_dir):
