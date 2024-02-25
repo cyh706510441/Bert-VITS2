@@ -5,8 +5,6 @@ numba
 phonemizer
 scipy
 tensorboard
-torch
-torchvision
 Unidecode
 amfm_decompy
 jieba
@@ -18,3 +16,5 @@ av
 mecab-python3
 loguru
 unidic-lite
+num2words
+fugashi
