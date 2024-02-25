@@ -166,3 +166,9 @@ cython_debug/
 filelists/*
 !/filelists/esd.list
 data/*
+/.idea/.gitignore
+/.idea/Bert-VITS2.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
