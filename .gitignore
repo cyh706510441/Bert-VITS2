@@ -172,3 +172,5 @@ data/*
 /.idea/modules.xml
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/vcs.xml
+/bert/chinese-roberta-wwm-ext-large/
+/raw/
